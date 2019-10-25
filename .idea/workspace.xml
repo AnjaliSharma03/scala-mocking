@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2262e3c0-adf0-46c9-bc71-16d5c058ac6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LAS-P-lightbend-akka-for-scala-professional-v1/exercises/src/main/scala/com/lightbend/training/coffeehouse/Waiter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../directory-content-fetcher/.idea/modules/directory-content-fetcher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../directory-content-fetcher/.idea/modules/directory-content-fetcher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../directory-content-fetcher/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../directory-content-fetcher/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../directory-content-fetcher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../directory-content-fetcher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-assignment-04-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-assignment-04-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-assignment-04-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-assignment-04-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-assignment-04-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04_2.13/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/default/scala-assignment-04_2.13/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/scala-2.13/resolution-cache/reports/default-scala-assignment-04_2.13-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-assignment-04/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-assignment-04/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-mocking" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/knoldus/DumbFormatter.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/knoldus/DumbFormatterSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+              <folding>
+                <element signature="e#21#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5-sources.jar!/org/mockito/invocation/InvocationOnMock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-285">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Trait" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/Warehouse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/OrderService.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/knoldus/OderServiceSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/knoldus/OrderService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/knoldus/Warehouse.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/knoldus/DumbFormatterSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/knoldus/DumbFormatter.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules/scala-mocking-build.iml" />
+        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_mockito_mockito_all_1_8_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1280" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="knoldus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala-mocking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala-mocking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="knoldus" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scala-mocking" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-mocking [file:/home/knoldus/Documents/scala-mocking/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-mocking-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3143880122000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1927352375" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../LAS-P-lightbend-akka-for-scala-professional-v1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-file-upload-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-samples-persistence-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../backend_api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../knolx-portal" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../knolx-portal-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/UserManagement-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/ForOffshoreHEB/forecast_manager" value="PREVIEW" />
+        <entry key="$USER_HOME$/forecast_manager/backend_api" value="PREVIEW" />
+        <entry key="$USER_HOME$/knolx-portal-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/knowledge-portal-rest" value="PREVIEW" />
+        <entry key="$USER_HOME$/knowledge-portal-ui" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2262e3c0-adf0-46c9-bc71-16d5c058ac6f" name="Default Changelist" comment="" />
+      <created>1571938617566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571938617566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13727055" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20543294" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.2886248" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" weight="0.32960895" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Warehouse.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/knoldus/OderServiceSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/knoldus/Warehouse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/knoldus/OrderService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/knoldus/DumbFormatter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5-sources.jar!/org/mockito/invocation/InvocationOnMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/knoldus/DumbFormatterSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+          <folding>
+            <element signature="e#21#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
